@@ -76,7 +76,7 @@ a {
 .animeLeft {
   opacity: 0;
   transform: translateX(-20px);
-  animation: animaLeft 0.3s forwards;
+  animation: animeLeft 0.3s forwards;
 }
 
 @keyframes animeLeft {
